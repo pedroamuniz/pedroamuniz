@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```python
+for skill in skill_set:
+  print(skill)
+
+# Javascript, Python, Typescript, C#
+# React, React Native, TailwindCss, HTML, CSS
+# AWS, Firebase
+```
