@@ -1,4 +1,4 @@
-## Hi my there 👋
+## Hi there 👋
  I'm Pedro M, a passionate coder deeply involved in the world of technology. I've been coding for a long time and have gained ***2+ years of experience in web development***. Coursed a bachelor's degree at the ***University of Havana,Cuba***. I'm constantly pushing my boundaries and have recently get into on the exciting journey of ***mobile app development***. I love crafting innovative solutions and I'm thrilled to continue growing and exploring in the tech industry. Let's code our way to the future!
 
 <!--
@@ -20,7 +20,7 @@ for skill in skill_set:
   print(skill)
 # Javascript, Python, Typescript, C#
 # React, React Native, TailwindCss, HTML, CSS
-# AWS, Firebase
+# AWS, Firebase, RestAPI
 ```
 
  [LinkedIn](https://www.linkedin.com/in/pedromm-dev/) | [Website](https://pedroamuniz.com)
